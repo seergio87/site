@@ -1,20 +1,11 @@
 # main links
 main:
-<<<<<<< HEAD
   - title: "Home"
     url: /
   - title: "About"
     url: /about/
   #- title: "Sample Posts"
   #  url: /year-archive/
-=======
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
->>>>>>> 025705a17f705cbfdac62dea5ba343deee759032
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
